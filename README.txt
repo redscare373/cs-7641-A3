@@ -5,6 +5,9 @@
 This project contains all of the necessary code
 and data to run the experiments used in CS7641 Assignment 3.
 
+## Code
+https://github.com/QuinnLee/cs-7641-A3
+
 ## Setup
 1. Ensure you have Python 2.7 installed (any version above 2.7.10 will work) on your system, along with all standard libraries including the 'pip' and 'setuptools' packages.
 
@@ -29,6 +32,5 @@ simply run the `run.sh` script in the "src" folder. It will execute the various 
 
 ## Credits and References
 All implementations and experiment code for this assignment were taken from the
-Python scikit-learn library (http://scikit-learn.org) and the experiment
-code was adapted from Jonathan Tay's repository (https://github.com/JonathanTay/CS-7641-assignment-3)
-and Federico Ciner (https://github.com/FedericoCiner).
+Python scikit-learn library (http://scikit-learn.org)
+the experiment code was adapted from Jonathan Tay's repository (https://github.com/JonathanTay/CS-7641-assignment-3) and Federico Ciner (https://github.com/FedericoCiner).
