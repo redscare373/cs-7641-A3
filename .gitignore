@@ -6,7 +6,6 @@ __pycache__/
 # experiment files
 *.png
 *.pdf
-*.txt
 .DS_store
 
 # C extensions
@@ -30,7 +29,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-results/**/*.csv
+**/**/*.csv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
