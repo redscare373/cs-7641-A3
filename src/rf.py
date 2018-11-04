@@ -146,7 +146,7 @@ def run_clustering(digits_y, abalone_y, rdir, pdir, experiment=False):
     )
     get_cluster_data(
         abalone_X, abalone_y, 'abalone',
-        km_k=11, gmm_k=11, rdir=rdir, pdir=pdir,
+        km_k=2, gmm_k=11, rdir=rdir, pdir=pdir,
     )
 
     df_digits_2D = pd.read_csv(get_abspath('digits_2D.csv', rdir))
